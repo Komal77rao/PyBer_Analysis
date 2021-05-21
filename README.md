@@ -2,7 +2,7 @@
 
 
 # Overview of Project
-In this analysis on ride sharing data, we created several visualizations for Pyber company, to present analysis on the type of city, number of drivers and riders, total fare and average fare. The main purpose of the analysis and visualization was to help Pyber provide better access to their services and determine the affordability for the underserved neighborhood.
+In this project, we created several visualizations for Pyber company from the provideed ride-sharing data, to represent the results on the type of city, number of drivers and riders, total fare and average fare. The main purpose of the analysis and visualization was to help Pyber company improve the access of their services and determine the affordability for the underserved neighborhood.
 
 ## Purpose of the project
 In the new assignment, we created a summary of the ride-sharing data by city type and a multiple-line graph that shows the total weekly fares for each city type. 
@@ -20,7 +20,7 @@ The summary can be found in the following table:
 
 ![Picture2](https://user-images.githubusercontent.com/79213116/119163891-d979dd80-ba29-11eb-9e8c-7686e1cf0a4e.png)
 
-The following pie charts represent the similar results.
+The following pie charts illustrate the similar results.
 
 ![Picture3](https://user-images.githubusercontent.com/79213116/119165360-68d3c080-ba2b-11eb-8f3d-33a285545a14.png)
 ![Picture3](https://user-images.githubusercontent.com/79213116/119165361-68d3c080-ba2b-11eb-8874-75a23e690590.png)
