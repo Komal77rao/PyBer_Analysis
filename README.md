@@ -1,4 +1,4 @@
-# PyBer Analysis and Visualisation
+# PyBer Analysis and Visualization
 
 
 # Overview of Project
